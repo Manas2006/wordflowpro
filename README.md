@@ -2,34 +2,42 @@
 
 WordFlowPro is a comprehensive debate assistant iOS application built with SwiftUI, designed to help debaters enhance their performance and streamline their debate preparation process.
 
-![Home Page](public/images/homePage.png)
+<p align="center">
+  <img src="public/images/homePage.png" alt="Home Page" width="300"/>
+  <img src="public/images/chatBot.png" alt="AI Assistant" width="300"/>
+</p>
 
 ## Features
 
 ### 1. AI Debate Assistant
-![AI Assistant](public/images/chatBot.png)
+<p align="center">
+  <img src="public/images/chatBot.png" alt="AI Assistant" width="300"/>
+  <img src="public/images/homePage.png" alt="Home Page" width="300"/>
+</p>
 - Intelligent debate companion powered by AI
 - Real-time assistance during debates
 - Help with argument construction and rebuttals
 - Practice debate scenarios and receive feedback
 
 ### 2. Custom Timers
-![Timers](public/images/timers.png)
-![Timer Interface](public/images/timer.png)
+<p align="center">
+  <img src="public/images/timers.png" alt="Timers" width="300"/>
+  <img src="public/images/timer.png" alt="Timer Interface" width="300"/>
+</p>
 - Customizable debate timers
 - Multiple timer presets for different debate formats
 - Visual and audio cues
 - Easy-to-use interface for time management
 
 ### 3. Settings
-![Settings](public/images/settings.png)
+<p align="center">
+  <img src="public/images/settings.png" alt="Settings" width="300"/>
+  <img src="public/images/appStore.png" alt="App Store" width="300"/>
+</p>
 - Customize app preferences
 - Adjust timer settings
 - Configure AI assistant parameters
 - User preferences management
-
-## App Store
-![App Store](public/images/appStore.png)
 
 ## Technical Details
 
